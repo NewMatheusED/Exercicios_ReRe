@@ -2,7 +2,7 @@
 
 - Rafael Nesterur
 
-- Rafal Torolho
+- Rafael Torolho
 
 - Matheus Eduardo
 
